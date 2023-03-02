@@ -1,6 +1,6 @@
 # Scope
 
-This project aims to use convolutional neural networks (CNNs) in order to predict one texture feature of a given image texture. The dataset consists in a batch of generated textures sampled from the anisotropic fractional Brownian random field model using the `pyafbf` python package. More details about the project, the implemented neural networks and the results are provided in the report section below. Most of the information included in this section are taken from papers [1] and [2].
+This project aims to use convolutional neural networks (CNNs) in order to predict one texture feature of a given image texture. The dataset consists in a batch of generated textures sampled from the anisotropic fractional Brownian random field model using the `pyafbf` python package. More details about the project, the implemented neural networks and the results are provided in the "Classification of Image Textures Using Convolutional Neural Networks" section below. Most of the information included in this section are taken from papers [1] and [2].
 
 # Dataset
 
